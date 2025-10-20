@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSD_CUST_DASHBOARD'
+define service ZSD_CUST_DASHBOARD {
+  expose ZC_CUST_DASHBOARD;
+}
